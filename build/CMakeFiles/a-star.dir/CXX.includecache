@@ -24,6 +24,10 @@ forward_list
 display.hpp
 /home/olamilekan/a-star/src/display.hpp
 
+/home/olamilekan/a-star/src/display.cpp
+display.hpp
+/home/olamilekan/a-star/src/display.hpp
+
 /home/olamilekan/a-star/src/display.hpp
 SDL2/SDL.h
 -
