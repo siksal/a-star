@@ -17,9 +17,3 @@ target_link_libraries(${PROJECT_NAME}
         SDL2
         SDL_image
         )
-
-# add_custom_command(TARGET ${PROJECT_NAME} PRE_BUILD
-#     COMMAND ${CMAKE_COMMAND} -E copy_directory
-#     ${CMAKE_SOURCE_DIR}/data/ $<TARGET_FILE_DIR:${PROJECT_NAME}>)
-    
-    

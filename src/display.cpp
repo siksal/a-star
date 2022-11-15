@@ -159,11 +159,6 @@ void Display::updateScreen()
     SDL_RenderPresent(renderer);
 }
 
-// void Display::cleanUp()
-// {
-//     SDL_DestroyWindow(window);
-// }
-
 void Display::destroyRenderer()
 {
     // Destroy Renderer

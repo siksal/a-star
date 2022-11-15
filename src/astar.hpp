@@ -53,7 +53,6 @@ class Astar
     public:
         Astar(Vector2& start, Vector2& goal, std::vector<Vector2>& obs, SDL_Rect& rect, Display& disp);
         ~Astar();
-        // void astar(Vector2& start, Vector2& goal, std::vector<Vector2>& obs, SDL_Rect& rect, Display& disp);
         bool isNeighbourInObstacle(std::vector<Vector2>& obs, Node& neighbour_);
         bool isNeighbourInList(std::forward_list<Node>& lists, Node& neighbour_);
         bool isOutsideGrid(Node& neighbour_);
