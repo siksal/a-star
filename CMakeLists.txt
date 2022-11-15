@@ -3,8 +3,6 @@ project(a-star)
 
 set(CMAKE_CXX_STANDARD 11)
 
-# find_package (Eigen3 3.3 REQUIRED NO_MODULE)
-
 set(SRC_CPP
     src/main.cpp
     src/display.cpp

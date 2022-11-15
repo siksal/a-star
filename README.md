@@ -4,7 +4,7 @@ This is an AStar algorithm that finds the shortest path from a start position to
 # Setup
 Install dependencies
 ```
-sudo apt install libeigen3-dev libsdl2-dev libsdl2-ttf-dev
+sudo apt install libsdl2-dev libsdl2-ttf-dev
 ```
 Clone the repository
 ```
