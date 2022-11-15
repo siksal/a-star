@@ -35,3 +35,4 @@ Run the code
 - Press S and mouse button to change start position.
 - Press G and mouse button to change goal position.
 - Blue color is the shortest path from Start to Goal.
+Watch the algorithm [here](https://www.youtube.com/watch?v=ietNcYccRic)
