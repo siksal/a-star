@@ -23,4 +23,4 @@ Run the code
 ```
 ./a-star
 ```
-![Go To Robot](https://github.com/siksal/a-star/blob/master/go_to_robot.gif)
+![Go To Robot](https://github.com/siksal/a-star/blob/master/AStar%20algorithm%20video.mp4)
