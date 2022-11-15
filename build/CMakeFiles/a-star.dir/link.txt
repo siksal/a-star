@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/a-star.dir/src/main.cpp.o CMakeFiles/a-star.dir/src/display.cpp.o CMakeFiles/a-star.dir/src/astar.cpp.o  -o a-star  -lSDL2 -lSDL_image 

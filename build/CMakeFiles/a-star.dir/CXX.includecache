@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/olamilekan/a-star/src/astar.cpp
+unordered_map
+/home/olamilekan/a-star/src/unordered_map
+astar.hpp
+/home/olamilekan/a-star/src/astar.hpp
+
+/home/olamilekan/a-star/src/astar.hpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+vector
+-
+forward_list
+/home/olamilekan/a-star/src/forward_list
+display.hpp
+/home/olamilekan/a-star/src/display.hpp
+
+/home/olamilekan/a-star/src/display.hpp
+SDL2/SDL.h
+-
+SDL2/SDL_image.h
+-
+iostream
+-
+vector
+-
+
