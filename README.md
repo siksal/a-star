@@ -1,4 +1,4 @@
-# a-star
+# AStar Algorithm
 This is an AStar algorithm implemented in C++ using the SDL library for graphic display
 
 # Setup
