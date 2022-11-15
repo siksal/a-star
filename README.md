@@ -23,13 +23,13 @@ Run the code
 ```
 ./a-star
 ```
-![AStar Algorithm](https://github.com/siksal/a-star/blob/master/AStar\picture.png)
+![AStar Algorithm](https://github.com/siksal/a-star/blob/master/AStar%20picture.png)
 
 # Hint
-- ![#2C2C2C](https://placehold.co/15x15/f03c15/2C2C2C.png) `Obstacle`
-- ![#FFFF00](https://placehold.co/15x15/f03c15/FFFF00.png) `Start`
-- ![#00FF00](https://placehold.co/15x15/f03c15/00FF00.png) `Goal`
-- ![#0000FF](https://placehold.co/15x15/f03c15/0000FF.png) `Path`
+- ![#2c2c2c](https://placehold.co/15x15/2c2c2c/2c2c2c.png) `Obstacle`
+- ![#ffff00](https://placehold.co/15x15/ffff00/ffff00.png) `Start`
+- ![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) `Goal`
+- ![#0000ff](https://placehold.co/15x15/0000ff/0000ff.png) `Path`
 
 - Press mouse button to create or remove obstacle.
 - Press S and mouse button to change start position.
